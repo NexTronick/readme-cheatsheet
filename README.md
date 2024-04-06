@@ -10,7 +10,20 @@
 - [Docker](#docker)
 
 </details>
+:
+`
+<details>
+<summary>Table of Content</summary>
 
+- [Markdown Formatting](#markdown-formatting)
+- [Git Commands](#git-commands)
+- [Package Management (npm)](#package-management-npm)
+- [Virtual Environment (Python)](#virtual-environment-python)
+- [Docker](#docker)
+
+</details>
+
+`
 ## Markdown Formatting
 
 - **Bold Text**: `**Bold Text**`
