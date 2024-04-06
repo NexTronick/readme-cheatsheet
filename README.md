@@ -11,20 +11,9 @@
 
 </details>
 :
-`[comment]: <
-<details>
-<summary>Table of Content</summary>
 
-- [Markdown Formatting](#markdown-formatting)
-- [Git Commands](#git-commands)
-- [Package Management (npm)](#package-management-npm)
-- [Virtual Environment (Python)](#virtual-environment-python)
-- [Docker](#docker)
+#TEXT File
 
-</details>
->
-
-`
 ## Markdown Formatting
 
 - **Bold Text**: `**Bold Text**`
